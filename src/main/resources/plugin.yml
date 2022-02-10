@@ -1,0 +1,7 @@
+name: AutoBroadcast
+version: '${project.version}'
+main: me.ethan.autobroadcast.AutoBroadcast
+api-version: 1.18
+authors: [ brickoh ]
+description: Simple AutoBroadcast plugin.
+website: https://github.com/brickoh/AutoBroadcast
